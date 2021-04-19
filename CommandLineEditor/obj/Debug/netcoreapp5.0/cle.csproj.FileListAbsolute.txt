@@ -1,0 +1,16 @@
+/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/bin/Debug/netcoreapp5.0/cle
+/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/bin/Debug/netcoreapp5.0/cle.deps.json
+/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/bin/Debug/netcoreapp5.0/cle.runtimeconfig.json
+/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/bin/Debug/netcoreapp5.0/cle.runtimeconfig.dev.json
+/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/bin/Debug/netcoreapp5.0/cle.dll
+/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/bin/Debug/netcoreapp5.0/ref/cle.dll
+/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/bin/Debug/netcoreapp5.0/cle.pdb
+/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/obj/Debug/netcoreapp5.0/cle.csprojAssemblyReference.cache
+/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/obj/Debug/netcoreapp5.0/cle.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/obj/Debug/netcoreapp5.0/cle.AssemblyInfoInputs.cache
+/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/obj/Debug/netcoreapp5.0/cle.AssemblyInfo.cs
+/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/obj/Debug/netcoreapp5.0/cle.csproj.CoreCompileInputs.cache
+/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/obj/Debug/netcoreapp5.0/cle.dll
+/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/obj/Debug/netcoreapp5.0/ref/cle.dll
+/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/obj/Debug/netcoreapp5.0/cle.pdb
+/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/obj/Debug/netcoreapp5.0/cle.genruntimeconfig.cache
