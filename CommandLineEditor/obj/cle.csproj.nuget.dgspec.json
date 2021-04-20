@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/cle.csproj": {}
+    "/home/jonah/Documents/CommandLineEditor/CommandLineEditor/cle.csproj": {}
   },
   "projects": {
-    "/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/cle.csproj": {
+    "/home/jonah/Documents/CommandLineEditor/CommandLineEditor/cle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/cle.csproj",
+        "projectUniqueName": "/home/jonah/Documents/CommandLineEditor/CommandLineEditor/cle.csproj",
         "projectName": "cle",
-        "projectPath": "/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/cle.csproj",
+        "projectPath": "/home/jonah/Documents/CommandLineEditor/CommandLineEditor/cle.csproj",
         "packagesPath": "/home/jonah/.nuget/packages/",
-        "outputPath": "/home/jonah/Documents/CommandLineEditor/CommandLineEditor(cle)/obj/",
+        "outputPath": "/home/jonah/Documents/CommandLineEditor/CommandLineEditor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jonah/.nuget/NuGet/NuGet.Config"
